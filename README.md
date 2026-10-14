@@ -1,5 +1,4 @@
 # MyNotesApp
-My first notes app while learning web development
 <!DOCTYPE html>
 <html lang="en">
 <head>
